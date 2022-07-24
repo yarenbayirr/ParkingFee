@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.BolumSoru1", "8.BolumSoru1\8.BolumSoru1.csproj", "{1AC86C6F-D968-4B68-A900-2FBA0E74560F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Bolum2.Soru", "..\8.Bolum2.Soru\8.Bolum2.Soru.csproj", "{96480DF6-2D56-424C-B02C-09DCBF9B158A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC86C6F-D968-4B68-A900-2FBA0E74560F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC86C6F-D968-4B68-A900-2FBA0E74560F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC86C6F-D968-4B68-A900-2FBA0E74560F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC86C6F-D968-4B68-A900-2FBA0E74560F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96480DF6-2D56-424C-B02C-09DCBF9B158A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96480DF6-2D56-424C-B02C-09DCBF9B158A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96480DF6-2D56-424C-B02C-09DCBF9B158A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96480DF6-2D56-424C-B02C-09DCBF9B158A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D90837-02B1-4068-9512-EAB48C767ED2}
+	EndGlobalSection
+EndGlobal
